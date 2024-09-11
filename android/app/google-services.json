@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "745211727071",
+    "firebase_url": "https://udmeycourse-19dfa-default-rtdb.firebaseio.com",
+    "project_id": "udmeycourse-19dfa",
+    "storage_bucket": "udmeycourse-19dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745211727071:android:e695c358dcba86bfd7ad6a",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrlyALnDM3YFnhpG9eWCrEiFwzmRVqrlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745211727071:android:52772c2ff03d74e0d7ad6a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrlyALnDM3YFnhpG9eWCrEiFwzmRVqrlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
